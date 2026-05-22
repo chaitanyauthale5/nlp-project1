@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymupdf
+spacy
+scikit-learn
+python-multipart
+pydantic
+pydantic-settings
+nltk
+joblib
